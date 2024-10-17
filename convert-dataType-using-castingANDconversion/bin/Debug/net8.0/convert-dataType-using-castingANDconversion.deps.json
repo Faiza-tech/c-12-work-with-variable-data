@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "convert-dataType-using-castingANDconversion/1.0.0": {
+        "runtime": {
+          "convert-dataType-using-castingANDconversion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "convert-dataType-using-castingANDconversion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

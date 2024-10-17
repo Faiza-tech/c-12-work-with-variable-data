@@ -1,0 +1,14 @@
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\convert-dataType-using-castingANDconversion\bin\Debug\net8.0\convert-dataType-using-castingANDconversion.exe
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\convert-dataType-using-castingANDconversion\bin\Debug\net8.0\convert-dataType-using-castingANDconversion.deps.json
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\convert-dataType-using-castingANDconversion\bin\Debug\net8.0\convert-dataType-using-castingANDconversion.runtimeconfig.json
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\convert-dataType-using-castingANDconversion\bin\Debug\net8.0\convert-dataType-using-castingANDconversion.dll
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\convert-dataType-using-castingANDconversion\bin\Debug\net8.0\convert-dataType-using-castingANDconversion.pdb
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\convert-dataType-using-castingANDconversion\obj\Debug\net8.0\convert-dataType-using-castingANDconversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\convert-dataType-using-castingANDconversion\obj\Debug\net8.0\convert-dataType-using-castingANDconversion.AssemblyInfoInputs.cache
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\convert-dataType-using-castingANDconversion\obj\Debug\net8.0\convert-dataType-using-castingANDconversion.AssemblyInfo.cs
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\convert-dataType-using-castingANDconversion\obj\Debug\net8.0\convert-dataType-using-castingANDconversion.csproj.CoreCompileInputs.cache
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\convert-dataType-using-castingANDconversion\obj\Debug\net8.0\convert-dataType-using-castingANDconversion.dll
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\convert-dataType-using-castingANDconversion\obj\Debug\net8.0\refint\convert-dataType-using-castingANDconversion.dll
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\convert-dataType-using-castingANDconversion\obj\Debug\net8.0\convert-dataType-using-castingANDconversion.pdb
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\convert-dataType-using-castingANDconversion\obj\Debug\net8.0\convert-dataType-using-castingANDconversion.genruntimeconfig.cache
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\convert-dataType-using-castingANDconversion\obj\Debug\net8.0\ref\convert-dataType-using-castingANDconversion.dll
