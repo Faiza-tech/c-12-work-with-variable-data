@@ -76,9 +76,10 @@ foreach (var pallet in pallets)
 Console.WriteLine("Resize the array to remove elements");
 
 Array.Resize(ref pallets, 3);
-Console.WriteLine("Resising 3 -- count:"+ pallets.Length);
+Console.WriteLine("Resising 3 -- count:" + pallets.Length);
 
-foreach(var pallet in pallets){
+foreach (var pallet in pallets)
+{
     Console.WriteLine("--" + pallet);
 }
 
@@ -104,7 +105,7 @@ string output = string.Join("-", givenValue);
 Console.WriteLine(output);
 
 //Split() the comma-separated-value string into an array of strings
-string[] items =output.Split('-');
+string[] items = output.Split('-');
 foreach (string item in items)
 {
     Console.WriteLine(item);
@@ -128,10 +129,10 @@ for (int i = 0; i < msg.Length; i++)
 {
     // Convert each word to a char array
     char[] letter = msg[i].ToCharArray();
-    
+
     // Reverse the char array
     Array.Reverse(letter);
-    
+
     // Convert the reversed char array back to a string and store it in newMessage
     newMessage[i] = new string(letter);
 }
@@ -141,3 +142,37 @@ string res = String.Join(" ", newMessage);
 
 // Output the result
 Console.WriteLine(res);
+
+
+Console.WriteLine("------------------");
+Console.WriteLine("------------------");
+
+//Complete a challenge to parse a string of orders, sort the orders and tag possible errors
+string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
+
+// Split the string by commas and store the result in an array
+string[] orderArray = orderStream.Split(',');
+
+// Create an array to store the Order IDs
+string[] orderId = new string[orderArray.Length];
+
+// Iterate through each order in orderArray
+for (int i = 0; i < orderArray.Length; i++)
+{
+      // Remove the first character (the letter) and store the numeric part
+    //orderIDs[i] = orderArray[i].Substring(1);
+    orderId[i] = orderArray[i];
+}
+
+// Sort the order IDs
+Array.Sort(orderId);
+
+// Output the sorted Order IDs and tag orders that aren't exactly four characters
+Console.WriteLine("Sorted Order IDs:");
+foreach (string id in orderId){
+    if(id.Length != 4){
+         Console.WriteLine(id + " - Error");
+    }else{
+        Console.WriteLine(id);
+    }
+}
