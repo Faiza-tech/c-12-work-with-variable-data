@@ -1,0 +1,15 @@
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Perform-operations-on-arrays-using-helper-methods\bin\Debug\net8.0\Perform-operations-on-arrays-using-helper-methods.exe
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Perform-operations-on-arrays-using-helper-methods\bin\Debug\net8.0\Perform-operations-on-arrays-using-helper-methods.deps.json
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Perform-operations-on-arrays-using-helper-methods\bin\Debug\net8.0\Perform-operations-on-arrays-using-helper-methods.runtimeconfig.json
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Perform-operations-on-arrays-using-helper-methods\bin\Debug\net8.0\Perform-operations-on-arrays-using-helper-methods.dll
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Perform-operations-on-arrays-using-helper-methods\bin\Debug\net8.0\Perform-operations-on-arrays-using-helper-methods.pdb
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Perform-operations-on-arrays-using-helper-methods\obj\Debug\net8.0\Perform-operations-on-arrays-using-helper-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Perform-operations-on-arrays-using-helper-methods\obj\Debug\net8.0\Perform-operations-on-arrays-using-helper-methods.AssemblyInfoInputs.cache
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Perform-operations-on-arrays-using-helper-methods\obj\Debug\net8.0\Perform-operations-on-arrays-using-helper-methods.AssemblyInfo.cs
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Perform-operations-on-arrays-using-helper-methods\obj\Debug\net8.0\Perform-operations-on-arrays-using-helper-methods.csproj.CoreCompileInputs.cache
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Perform-operations-on-arrays-using-helper-methods\obj\Debug\net8.0\Perform-operations-on-arrays-using-helper-methods.sourcelink.json
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Perform-operations-on-arrays-using-helper-methods\obj\Debug\net8.0\Perform-operations-on-arrays-using-helper-methods.dll
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Perform-operations-on-arrays-using-helper-methods\obj\Debug\net8.0\refint\Perform-operations-on-arrays-using-helper-methods.dll
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Perform-operations-on-arrays-using-helper-methods\obj\Debug\net8.0\Perform-operations-on-arrays-using-helper-methods.pdb
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Perform-operations-on-arrays-using-helper-methods\obj\Debug\net8.0\Perform-operations-on-arrays-using-helper-methods.genruntimeconfig.cache
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Perform-operations-on-arrays-using-helper-methods\obj\Debug\net8.0\ref\Perform-operations-on-arrays-using-helper-methods.dll
