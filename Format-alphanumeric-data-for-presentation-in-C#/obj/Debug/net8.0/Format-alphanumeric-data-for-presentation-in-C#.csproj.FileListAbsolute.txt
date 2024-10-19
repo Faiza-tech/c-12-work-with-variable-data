@@ -1,0 +1,15 @@
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Format-alphanumeric-data-for-presentation-in-C#\bin\Debug\net8.0\Format-alphanumeric-data-for-presentation-in-C#.exe
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Format-alphanumeric-data-for-presentation-in-C#\bin\Debug\net8.0\Format-alphanumeric-data-for-presentation-in-C#.deps.json
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Format-alphanumeric-data-for-presentation-in-C#\bin\Debug\net8.0\Format-alphanumeric-data-for-presentation-in-C#.runtimeconfig.json
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Format-alphanumeric-data-for-presentation-in-C#\bin\Debug\net8.0\Format-alphanumeric-data-for-presentation-in-C#.dll
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Format-alphanumeric-data-for-presentation-in-C#\bin\Debug\net8.0\Format-alphanumeric-data-for-presentation-in-C#.pdb
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Format-alphanumeric-data-for-presentation-in-C#\obj\Debug\net8.0\Format-alphanumeric-data-for-presentation-in-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Format-alphanumeric-data-for-presentation-in-C#\obj\Debug\net8.0\Format-alphanumeric-data-for-presentation-in-C#.AssemblyInfoInputs.cache
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Format-alphanumeric-data-for-presentation-in-C#\obj\Debug\net8.0\Format-alphanumeric-data-for-presentation-in-C#.AssemblyInfo.cs
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Format-alphanumeric-data-for-presentation-in-C#\obj\Debug\net8.0\Format-alphanumeric-data-for-presentation-in-C#.csproj.CoreCompileInputs.cache
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Format-alphanumeric-data-for-presentation-in-C#\obj\Debug\net8.0\Format-alphanumeric-data-for-presentation-in-C#.sourcelink.json
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Format-alphanumeric-data-for-presentation-in-C#\obj\Debug\net8.0\Format-alphanumeric-data-for-presentation-in-C#.dll
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Format-alphanumeric-data-for-presentation-in-C#\obj\Debug\net8.0\refint\Format-alphanumeric-data-for-presentation-in-C#.dll
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Format-alphanumeric-data-for-presentation-in-C#\obj\Debug\net8.0\Format-alphanumeric-data-for-presentation-in-C#.pdb
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Format-alphanumeric-data-for-presentation-in-C#\obj\Debug\net8.0\Format-alphanumeric-data-for-presentation-in-C#.genruntimeconfig.cache
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Format-alphanumeric-data-for-presentation-in-C#\obj\Debug\net8.0\ref\Format-alphanumeric-data-for-presentation-in-C#.dll
