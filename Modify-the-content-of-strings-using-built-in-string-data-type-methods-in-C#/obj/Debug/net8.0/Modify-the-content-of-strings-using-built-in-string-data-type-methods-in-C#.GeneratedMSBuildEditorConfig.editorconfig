@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Modify_the_content_of_strings_using_built_in_string_data_type_methods_in_C_
+build_property.ProjectDir = C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Modify-the-content-of-strings-using-built-in-string-data-type-methods-in-C#\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
