@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Modify-the-content-of-strings-using-built-in-string-data-type-methods-in-C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea709fd39af88c15788e41990bed959ec3f9ddc3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c62050aa96bab5118eb82c7aa9646f7a6ce91d53")]
 [assembly: System.Reflection.AssemblyProductAttribute("Modify-the-content-of-strings-using-built-in-string-data-type-methods-in-C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Modify-the-content-of-strings-using-built-in-string-data-type-methods-in-C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
