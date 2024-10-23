@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("convert-dataType-using-castingANDconversion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdd10bb97d4f6637c25717d3aeaa2ea721740a6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+907c252a186c51d78d4b6ea63460935f88125df7")]
 [assembly: System.Reflection.AssemblyProductAttribute("convert-dataType-using-castingANDconversion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("convert-dataType-using-castingANDconversion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
