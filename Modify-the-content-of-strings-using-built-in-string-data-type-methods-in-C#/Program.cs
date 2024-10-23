@@ -52,3 +52,20 @@ Console.WriteLine("-----------------------------");
 string val = "Big Dog";
 val = val.Replace("B", "D");
 Console.WriteLine(val);
+
+Console.WriteLine("----------------------");
+
+// Complete a challenge to extract, replace, and remove data from an input string
+const string inputVal = "<div><h2>Widgets &trade;</h2><span>5000</span></div>";
+
+string quantity = inputVal.Replace("<div><h2>Widgets &trade;</h2><span>5000</span></div>", "5000");
+string output = inputVal.Remove(0,5).Replace("&trade;","&reg;").Replace("</div>", "");
+
+// Your work here
+
+Console.WriteLine($"Quantity: {quantity}");
+Console.WriteLine($"Output: {output}");
+
+/*required output like:
+Quantity: 5000
+Output: <h2>Widgets &reg;</h2><span>5000</span>*/
