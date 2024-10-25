@@ -1,0 +1,15 @@
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Guided-project-Work-with-variable-data-in-C#\bin\Debug\net8.0\Guided-project-Work-with-variable-data-in-C#.exe
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Guided-project-Work-with-variable-data-in-C#\bin\Debug\net8.0\Guided-project-Work-with-variable-data-in-C#.deps.json
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Guided-project-Work-with-variable-data-in-C#\bin\Debug\net8.0\Guided-project-Work-with-variable-data-in-C#.runtimeconfig.json
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Guided-project-Work-with-variable-data-in-C#\bin\Debug\net8.0\Guided-project-Work-with-variable-data-in-C#.dll
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Guided-project-Work-with-variable-data-in-C#\bin\Debug\net8.0\Guided-project-Work-with-variable-data-in-C#.pdb
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Guided-project-Work-with-variable-data-in-C#\obj\Debug\net8.0\Guided-project-Work-with-variable-data-in-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Guided-project-Work-with-variable-data-in-C#\obj\Debug\net8.0\Guided-project-Work-with-variable-data-in-C#.AssemblyInfoInputs.cache
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Guided-project-Work-with-variable-data-in-C#\obj\Debug\net8.0\Guided-project-Work-with-variable-data-in-C#.AssemblyInfo.cs
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Guided-project-Work-with-variable-data-in-C#\obj\Debug\net8.0\Guided-project-Work-with-variable-data-in-C#.csproj.CoreCompileInputs.cache
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Guided-project-Work-with-variable-data-in-C#\obj\Debug\net8.0\Guided-project-Work-with-variable-data-in-C#.sourcelink.json
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Guided-project-Work-with-variable-data-in-C#\obj\Debug\net8.0\Guided-project-Work-with-variable-data-in-C#.dll
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Guided-project-Work-with-variable-data-in-C#\obj\Debug\net8.0\refint\Guided-project-Work-with-variable-data-in-C#.dll
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Guided-project-Work-with-variable-data-in-C#\obj\Debug\net8.0\Guided-project-Work-with-variable-data-in-C#.pdb
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Guided-project-Work-with-variable-data-in-C#\obj\Debug\net8.0\Guided-project-Work-with-variable-data-in-C#.genruntimeconfig.cache
+C:\Users\Faiza\Documents\allDotnet\c-12-work-with-variable-data\Guided-project-Work-with-variable-data-in-C#\obj\Debug\net8.0\ref\Guided-project-Work-with-variable-data-in-C#.dll

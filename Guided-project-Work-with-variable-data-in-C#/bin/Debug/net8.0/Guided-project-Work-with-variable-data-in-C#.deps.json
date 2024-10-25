@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Guided-project-Work-with-variable-data-in-C#/1.0.0": {
+        "runtime": {
+          "Guided-project-Work-with-variable-data-in-C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Guided-project-Work-with-variable-data-in-C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
