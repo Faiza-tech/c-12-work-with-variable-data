@@ -51,6 +51,8 @@ string animalPersonalityDescription = "";
 string animalNickname = "";
 //#6 Add support for suggested donation data
 string suggestedDonation = "";
+//#10 Combine the dog descriptions to make it easier to search
+string dogDescription = "";
 
 // #2 variables that support data entry
 int maxPets = 8;
@@ -59,6 +61,8 @@ string menuSelection = "";
 
 // #8 declare decimalDonation
 decimal decimalDonation = 0.00m;
+
+bool noMatchesDog = true;
 
 // #3 array used to store runtime data, there is no persisted data
 // #7 Update ourAnimals array to hold 7 "columns" of data for each animal instead of 6.
@@ -188,24 +192,48 @@ do
             // Display all dogs with a specified characteristic");
             // #9 delete below comment code and update code with new logic
             // Console.WriteLine("\nUNDER CONSTRUCTION - please check back next month to see progress.");
-            
-            string dogCharacteristic = "";
 
-            while (dogCharacteristic == "")
+           Console.WriteLine("\nEnter one characteristic to search for:");
+            readResult = Console.ReadLine();
+            string dogCharacteristic = readResult?.ToLower().Trim() ?? "";
+
+            // Handle null or empty input for characteristic
+            if (string.IsNullOrEmpty(dogCharacteristic))
             {
-                // have the user enter physical characteristics to search for
-                Console.WriteLine($"\nEnter one desired dog characteristics to search for");
-                readResult = Console.ReadLine();
-                if (readResult != null)
+                Console.WriteLine("No characteristic entered. Please enter a valid characteristic next time.");
+                break;
+            }
+
+            noMatchesDog = true;
+
+            // Search and display matching dogs
+            for (int i = 0; i < maxPets; i++)
+            {
+                //#10
+                if (ourAnimals[i, 1].Contains("dog"))
                 {
-                    dogCharacteristic = readResult.ToLower().Trim();
+                    dogDescription = ourAnimals[i, 4].ToLower() + " " + ourAnimals[i, 5].ToLower();
+                    
+                    if (dogDescription.Contains(dogCharacteristic))
+                    {
+                        Console.WriteLine($"\nOur dog {ourAnimals[i, 3]} is a match!");
+                        Console.WriteLine(ourAnimals[i, 4]);
+                        Console.WriteLine(ourAnimals[i, 5]);
+                        noMatchesDog = false;
+                    }
                 }
             }
 
+            if (noMatchesDog)
+            {
+                Console.WriteLine("None of our dogs are a match found for: " + dogCharacteristic);
+            }
 
-            Console.WriteLine("Press the Enter key to continue.");
+            Console.WriteLine("\nPress the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
+
+        
 
         default:
             break;
